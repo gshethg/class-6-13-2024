@@ -1,0 +1,14 @@
+---
+title: "analysis"
+format: html
+author: "Gitanjali Sheth"
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+
+library(tidyverse)
+```
+
